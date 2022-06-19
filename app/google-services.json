@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610545251683",
+    "project_id": "java-quizbox",
+    "storage_bucket": "java-quizbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610545251683:android:6f7d8be229f79197078f56",
+        "android_client_info": {
+          "package_name": "com.example.javaquizbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610545251683-i89bfn0bono5ffc8t6cpmal1erhdheu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBALtDJ_zW5yJqdynirS3RrBv_ITx_H4EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610545251683-i89bfn0bono5ffc8t6cpmal1erhdheu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

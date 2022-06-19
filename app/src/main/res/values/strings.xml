@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Java QuizBox</string>
+    <!--All the string resources come here including Questions and title -->
+    <!--<string name="app_name">GFG | HOW WELL DO YOU KNOW SIMRAN?</string>-->
+    <string name="correct"><b>CORRECTNESS IS</b> \n
+                           <b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">Is object oriented programming developed by Alan Kay.</string>
+    <string name="b">Encapsulation adds the function in a user-defined structure.</string>
+    <string name="c">Abstraction binds the code and data together and keeps them secure from the outside world?</string>
+    <string name="d">Template class is known as generic class?</string>
+    <string name="e">A single program of OOPS contains only on class?.</string>
+    <string name="f">Polymorphism helps in redefining the same functionality</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+</resources>
